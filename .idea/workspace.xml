@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="916854c2-c38e-4fda-82ee-9cd867b4964d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-    </list>
+    <list default="true" id="916854c2-c38e-4fda-82ee-9cd867b4964d" name="Default" comment="" />
     <ignored path="API.com.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -123,15 +121,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1467007622231</updated>
-      <workItem from="1467007624065" duration="14000" />
+      <workItem from="1467007624065" duration="405000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14000" />
+    <option name="totallyTimeSpent" value="405000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="501" y="30" width="932" height="742" extended-state="0" />
+    <frame x="501" y="30" width="932" height="742" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25505617" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
